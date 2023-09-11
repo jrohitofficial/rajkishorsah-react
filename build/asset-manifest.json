@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajsah4287/static/css/main.fb1660a0.css",
+    "main.js": "/rajsah4287/static/js/main.7caceb87.js",
+    "static/js/787.1ed0c42c.chunk.js": "/rajsah4287/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/rajsah4287/static/media/Resume.a0e36feec7c43de966ca.pdf",
+    "static/media/About2.png": "/rajsah4287/static/media/About2.1d32aaaf1c52806a5602.png",
+    "static/media/HomePageImage.png": "/rajsah4287/static/media/HomePageImage.6d6b67f9376e30e23fe3.png",
+    "static/media/About.png": "/rajsah4287/static/media/About.5e99d144fb89762a3a02.png",
+    "static/media/codeEditor.png": "/rajsah4287/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/chatify.png": "/rajsah4287/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/SolveMe.jpg": "/rajsah4287/static/media/SolveMe.d8f96145799f0f3d4b52.jpg",
+    "static/media/pre.svg": "/rajsah4287/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/rajsah4287/index.html",
+    "main.fb1660a0.css.map": "/rajsah4287/static/css/main.fb1660a0.css.map",
+    "main.7caceb87.js.map": "/rajsah4287/static/js/main.7caceb87.js.map",
+    "787.1ed0c42c.chunk.js.map": "/rajsah4287/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1660a0.css",
+    "static/js/main.7caceb87.js"
+  ]
+}
