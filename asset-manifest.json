@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajkishorsah-react/static/css/main.e2f98684.css",
+    "main.js": "/rajkishorsah-react/static/js/main.e833ccfa.js",
+    "static/js/787.1ed0c42c.chunk.js": "/rajkishorsah-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/rajkishorsah-react/static/media/Resume.a0e36feec7c43de966ca.pdf",
+    "static/media/About2.png": "/rajkishorsah-react/static/media/About2.1d32aaaf1c52806a5602.png",
+    "static/media/HomePageImage.png": "/rajkishorsah-react/static/media/HomePageImage.6d6b67f9376e30e23fe3.png",
+    "static/media/About.png": "/rajkishorsah-react/static/media/About.5e99d144fb89762a3a02.png",
+    "static/media/codeEditor.png": "/rajkishorsah-react/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/chatify.png": "/rajkishorsah-react/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/SolveMe.jpg": "/rajkishorsah-react/static/media/SolveMe.d8f96145799f0f3d4b52.jpg",
+    "static/media/pre.svg": "/rajkishorsah-react/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/rajkishorsah-react/index.html",
+    "main.e2f98684.css.map": "/rajkishorsah-react/static/css/main.e2f98684.css.map",
+    "main.e833ccfa.js.map": "/rajkishorsah-react/static/js/main.e833ccfa.js.map",
+    "787.1ed0c42c.chunk.js.map": "/rajkishorsah-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f98684.css",
+    "static/js/main.e833ccfa.js"
+  ]
+}
